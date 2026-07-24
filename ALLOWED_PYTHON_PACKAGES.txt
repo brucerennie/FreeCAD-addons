@@ -30,6 +30,7 @@ awkward
 backoff
 beautifulsoup4
 blinker
+cadquery-ocp
 capytaine
 certifi
 charset-normalizer
