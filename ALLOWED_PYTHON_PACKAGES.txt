@@ -42,6 +42,7 @@ ezdxf
 geomdl
 gmsh
 idna
+kicad-python
 ladybug-core
 ladybug-comfort
 ladybug-display
